@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f12hktbdboce3vnlf3cvgtbza2e56zuc3yq5wdcgi",
+  "Issue Number": "5",
+  "Client": {
+    "Name": "CathySun Knowwhere",
+    "Region": "China",
+    "Industry": "Web3 / Crypto",
+    "Website": "https://www.knowhere.io/",
+    "Social Media": "https://x.com/knowhere_io",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Brief history of your project and organization": "KnowHere is an innovative video media platform dedicated to the Web3 space, aiming to provide value-added services to Web3 users and realize the value of traffic through its unique offerings. It encompasses three core business ecosystems: KnowHere Media, KnowHere DAO, and Know3Here, collectively building an all-in-one media platform.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "KnowHere Media is the world's first professional media resource integration service platform based on Web3. It combines video news, brand building, public relations, industry events, and resource aggregation, deeply connecting Web3 users, projects, KOLs, and communities. KnowHere Media is committed to supporting the development of the Web3 ecosystem by providing services such as real-time exclusive industry video news, online and offline event hosting, and comprehensive marketing services to meet partners' cross-platform, multi-dimensional needs.",
+    "Where was the data currently stored in this dataset sourced from": "Google Cloud",
+    "How do you plan to prepare the dataset": "",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://www.youtube.com/watch?v=TE0x9WxkQko\nhttps://www.youtube.com/watch?v=0bUfP2GwEMo\nhttps://www.youtube.com/watch?v=Fociy5KO5b4\nhttps://www.youtube.com/watch?v=0al1QBxoW2M\nhttps://www.knowhere.io/article/getNewsDetail/ae1c8ce4b9f732a49850df192dbe61b9\nhttps://www.knowhere.io/article/getNewsDetail/ba3f2c4f8f89a841503aa20f2f9a3582",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Yearly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "Lotus built-in data transfer",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "I don't know the ID yet",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "10PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2025-02-28 10:21:37.176313079 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f12hktbdboce3vnlf3cvgtbza2e56zuc3yq5wdcgi",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
