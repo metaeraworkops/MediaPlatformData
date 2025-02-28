@@ -13,6 +13,7 @@ Metaera Datacap Allocation Records
 **Review History**
 	•	First Review: 🔗 [Issue #19](https://github.com/filecoin-project/Allocator-Governance/issues/19)
 	•	Second Review: 🔗 [Issue #108](https://github.com/filecoin-project/Allocator-Governance/issues/108)
+	•	The third review record was lost due to the deletion of the original GitHub account.
 
 GitHub Update Record
 
