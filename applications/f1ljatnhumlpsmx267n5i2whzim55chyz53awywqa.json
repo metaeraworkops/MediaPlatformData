@@ -35,12 +35,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
-    "Validated At": "2025-02-28 08:56:10.954537616 UTC",
+    "State": "ReadyToSign",
+    "Validated At": "2025-03-03 10:23:33.888644865 UTC",
     "Validated By": "metaeraworkops",
     "Active": true,
-    "Updated At": "2025-02-28 08:56:10.954534075 UTC",
-    "Active Request ID": "eb8fe12b-65bb-4fb0-a921-7e889ded4f33",
+    "Updated At": "2025-03-03 10:23:33.888649310 UTC",
+    "Active Request ID": "5cb7fa96-1437-4321-8fe8-aa9cbab5d122",
     "On Chain Address": "f1ljatnhumlpsmx267n5i2whzim55chyz53awywqa",
     "Multisig Address": "false",
     "edited": false
@@ -61,6 +61,15 @@
           "Message CID": "bafy2bzaceavsf6s4m6rnd55nmox2sclxnpadra2l2vmyjzo7bwhebrofeyh5q"
         }
       ]
+    },
+    {
+      "ID": "5cb7fa96-1437-4321-8fe8-aa9cbab5d122",
+      "Request Type": "Refill",
+      "Created At": "2025-03-03 10:23:33.888653968 UTC",
+      "Updated At": "2025-03-03 10:23:33.888672867 UTC",
+      "Active": true,
+      "Allocation Amount": "1PiB",
+      "Signers": []
     }
   ]
 }
