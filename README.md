@@ -2,7 +2,7 @@
 This channel serves as the official FIL+ datacap application channel for Metaera.
 
 For detailed channel rules, please refer to:
-[Metaera Allocator Rule](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1029.json)
+[Metaera Allocator Rule](https://github.com/metaeraworkops/MediaPlatformData/issues/11)
 
 # MediaPlatformData Allocator Pathway - MetaEra
 
