@@ -37,11 +37,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2025-10-11 06:36:11.724213063 UTC",
+    "Validated At": "2025-10-11 06:50:11.514337706 UTC",
     "Validated By": "metaeraworkops",
     "Active": true,
-    "Updated At": "2025-10-11 06:36:11.724207533 UTC",
-    "Active Request ID": "99988828-a9ea-4f1d-9168-043564ebb387",
+    "Updated At": "2025-10-11 06:50:11.514336712 UTC",
+    "Active Request ID": "214aa0e6-662e-4bff-9dc8-23a62c24fb55",
     "On Chain Address": "f12hktbdboce3vnlf3cvgtbza2e56zuc3yq5wdcgi",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +62,40 @@
           "Created At": "2025-10-11 06:36:09.399000000 UTC",
           "Message CID": "bafy2bzacecqfaxxbntxachtm674alwgzunwzy5lsrmz7lxnixouuelz6cu5lw",
           "Increase allowance CID": "bafy2bzacedqb3br4iagjjhsypacosmpa55rgfnk5wcpiprblidp2kakvk75ti"
+        }
+      ]
+    }
+  ],
+  "Storage Providers Change Requests": [
+    {
+      "ID": "bd6624a4-68da-4ce1-b1e3-d8dec4d38cef",
+      "Created At": "2025-10-11 06:50:11.514319927 UTC",
+      "Updated At": "2025-10-11 06:50:11.514326484 UTC",
+      "Active": false,
+      "Allowed Storage Providers": [
+        3641915,
+        3641951,
+        3641955,
+        3641974,
+        3641984,
+        3641964
+      ],
+      "Max Deviation": "10%",
+      "Signers": [
+        {
+          "Github Username": "metaeraworkops",
+          "Signing Address": "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki",
+          "Set Max Deviation CID": "bafy2bzaceclkmacz47vcttjzdowxv5xid2oyoe73t6skzv4saxygh3vs7tsse",
+          "Add Allowed Storage Providers CID": {
+            "bafy2bzacea4xcbeur57ov73nseib6vxgrvqtxzngpgnqwh447xswajsphihh6": [
+              "3641915",
+              "3641951",
+              "3641955",
+              " 3641974",
+              "3641984",
+              "3641964"
+            ]
+          }
         }
       ]
     }
