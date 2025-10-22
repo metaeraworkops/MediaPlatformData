@@ -36,7 +36,7 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ChangesRequested",
     "Validated At": "2025-10-11 06:50:11.514337706 UTC",
     "Validated By": "metaeraworkops",
     "Active": true,
@@ -44,7 +44,7 @@
     "Active Request ID": "214aa0e6-662e-4bff-9dc8-23a62c24fb55",
     "On Chain Address": "f12hktbdboce3vnlf3cvgtbza2e56zuc3yq5wdcgi",
     "Multisig Address": "false",
-    "edited": true
+    "edited": false
   },
   "Allocation Requests": [
     {
