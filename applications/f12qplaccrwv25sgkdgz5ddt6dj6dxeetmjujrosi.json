@@ -35,15 +35,25 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2025-10-30 08:06:38.703667073 UTC",
+    "Validated By": "metaeraworkops",
     "Active": true,
-    "Updated At": "2025-03-07 07:39:31.442279085 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-10-30 08:06:38.703671545 UTC",
+    "Active Request ID": "93b7057a-90b3-487c-a9da-186ad925d55a",
     "On Chain Address": "f12qplaccrwv25sgkdgz5ddt6dj6dxeetmjujrosi",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "93b7057a-90b3-487c-a9da-186ad925d55a",
+      "Request Type": "First",
+      "Created At": "2025-10-30 08:06:38.703674597 UTC",
+      "Updated At": "2025-10-30 08:06:38.703675767 UTC",
+      "Active": true,
+      "Allocation Amount": "274877906944000 B",
+      "Signers": []
+    }
+  ]
 }
