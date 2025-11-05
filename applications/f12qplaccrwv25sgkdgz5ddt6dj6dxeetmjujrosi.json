@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2025-11-05 06:15:31.761857174 UTC",
+    "State": "Granted",
+    "Validated At": "2025-11-05 06:17:44.230582088 UTC",
     "Validated By": "metaeraworkops",
     "Active": true,
-    "Updated At": "2025-11-05 06:15:31.761864529 UTC",
+    "Updated At": "2025-11-05 06:17:44.230576854 UTC",
     "Active Request ID": "e0e6e002-a38c-4bd3-a55c-3bf12ad3600d",
     "On Chain Address": "f12qplaccrwv25sgkdgz5ddt6dj6dxeetmjujrosi",
     "Multisig Address": "false",
@@ -83,9 +83,16 @@
       "Request Type": "Refill",
       "Created At": "2025-11-05 06:15:31.761871487 UTC",
       "Updated At": "2025-11-05 06:15:31.761872887 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "1125899906842624B",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "metaeraworkops",
+          "Signing Address": "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki",
+          "Created At": "2025-11-05 06:17:39.204000000 UTC",
+          "Message CID": "bafy2bzacecltzrh4pyzx74trbqhy6dcun2j2azlrqvutqtmhxtpzoou6mgpik"
+        }
+      ]
     }
   ]
 }
